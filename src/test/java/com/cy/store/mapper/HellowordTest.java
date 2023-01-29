@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class HellowordTest {
      public void nihao(){
          int x;
-        x=200;
+        x=20;
          System.out.println("你好");
      }
 }
